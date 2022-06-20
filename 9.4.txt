@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+algoritma
+</title>
+</head>
+<body>
+<title>foto</title>
+
+
+	<a href="http://"><img src="3.png" style="float: right;margin-right:20px"></a>
+	
+
+</body>
+</html>
